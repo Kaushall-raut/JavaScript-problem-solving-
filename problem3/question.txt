@@ -1,0 +1,26 @@
+He has a table which initially has 
+𝑅
+R rows and 
+𝐶
+C columns. He then adds 
+𝐸
+E extra rows to it. How many total cells does he have finally?
+
+Input Format
+The only line in the input contains three space-separated integers 
+𝑅
+R, 
+𝐶
+C, and 
+𝐸
+E — the number of initial rows, the number of columns, and the number of extra rows added, respectively.
+
+Output Format
+Output on a new line, a single integer, which should be the final total number of cells in the table.
+
+Constraints
+1≤𝑅≤100
+
+1≤𝐶≤100
+
+1≤𝐸≤100
